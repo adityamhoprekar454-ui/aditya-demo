@@ -1,3 +1,4 @@
 # aditya-demo
 my first git repository
-author- Adiyta Mhoprekar
+<br>
+Author- Adiyta Mhoprekar
